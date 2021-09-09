@@ -1,2 +1,2 @@
 # Field-Geology
-A field trip was done to an anticline located near Tehran to study geology of the area through sampling and making thin sections for optical mineralogy studies.
+A field trip was made to an anticline near Tehran to study the area's geology through sampling and produce thin sections for optical mineralogy studies.
